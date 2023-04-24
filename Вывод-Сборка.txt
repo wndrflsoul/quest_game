@@ -1,0 +1,4 @@
+﻿Сборка начата…
+1>------ Сборка начата: проект: QuestGame, Конфигурация: Debug Any CPU ------
+1>QuestGame -> C:\Users\Роман\Desktop\QG\QuestGame\bin\Debug\net5.0\QuestGame.dll
+========== Сборка: успешно: 1, с ошибками: 0, без изменений: 0, пропущено: 0 ==========
